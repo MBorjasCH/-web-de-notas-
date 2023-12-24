@@ -68,3 +68,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### Aplicación de Notas en React
+Esta es una aplicación web simple desarrollada en React que te permite tomar notas y categorizarlas en una lista. Puedes luego limpiar la lista de notas.
+
+### Funcionalidades
+
+Crear nuevas notas
+
+Categorizar notas
+
+Limpiar la lista de notas
+
+### Tecnologías Utilizadas
+React: Para el desarrollo de la interfaz de usuario.
+HTML/CSS: Para el marcado y estilos.
+JavaScript: Lenguaje principal de la aplicación.
+Node.js: Para el entorno de ejecución del servidor .
+NPM/Yarn: Gestor de paquetes para instalar dependencias.
+
+### Instalación
+Instala las dependencias: npm install o yarn install
+### Ejecución
+Inicia la aplicación: npm start o yarn start
+Abre tu navegador web y visita http://localhost:3000 para ver la aplicación.
+
+### Uso
+Crear una nota: Ingresa el contenido de la nota en el campo provisto y haz clic en "Guardar".
+Categorizar notas: Selecciona una categoría para la nota recién creada.
+Limpiar la lista de notas: Utiliza el botón de limpieza para eliminar todas las notas.
+
+### Plataformas y Herramientas
+Sistema Operativo: Compatible con Windows, macOS y Linux.
+Navegadores Soportados: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge.
+Herramientas Adicionales: Editor de código "Visual Studio Code".

@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import NoteForm from './components/NoteForm';
-import NoteList from './components/NoteList';
-import FilterNotes from './components/FilterNotes';
-import Login from './components/Login'; // Importa el componente Login
-import './App.css';
+import NoteForm from './backend/components/NoteForm';
+import NoteList from './backend/components/NoteList';
+import FilterNotes from './backend/components/FilterNotes';
+import Login from './backend/components/Login'; // Importa el componente Login
+import './frontend/App.css';
 
 const App = () => {
   const [notes, setNotes] = useState([]);
